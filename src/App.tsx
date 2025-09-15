@@ -6,7 +6,7 @@ import Characters from './pages/Characters'
 
 function App() {
   return (
-    <div className='bg-graphite-gray h-screen w-screen'>
+    <div className='bg-graphite-gray w-fit'>
       <BrowserRouter>
         <Header></Header>
         <Routes>

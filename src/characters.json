@@ -1,0 +1,57 @@
+[
+   {
+      "name": "LINK",
+      "description": "Link es un joven hyliano reconocido por su valentía y determinación. En esta entrega, se enfrenta a una creciente oscuridad que amenaza Hyrule. Link adquiere nuevas habilidades que son esenciales para explorar el vasto mundo de Hyrule y restaurar la paz y rescatar a la Princesa Zelda.",
+      "image": "Link.png"
+   },
+   {
+      "name": "ZELDA",
+      "description": "La historia de Zelda se desarrolla cuando ella y Link despiertan accidentalmente a Ganondorf bajo el Castillo de Hyrule, lo que la lleva a desaparecer en un pasado lejano. En la época de los Zonai, conoce al primer rey de Hyrule, Rauru, y a su esposa, Sonia, quienes la ayudan a usar su poder sagrado para restaurar la deteriorada Espada Maestra.",
+      "image": "Zelda.png"
+   },
+   {
+      "name": "GANONDORF",
+      "description": "Ganondorf, también conocido como el Rey Gerudo, es el antagonista principal en Tears of the Kingdom. Busca conquistar Hyrule y obtener la Trifuerza para dominar el mundo. En esta entrega, regresa en su forma humana, retomando su rol como jefe final.",
+      "image": "Ganondorf.png"
+   },
+   {
+      "name": "RAURU",
+      "description": "Rauru se revela como el rey fundador de Hyrule, tras haber establecido el reino junto a su esposa, Sonia. También es el dueño original del nuevo brazo derecho de Link, que se usó para sellar a Ganondorf.",
+      "image": "King_Rauru.png"
+   },
+   {
+      "name": "SONIA",
+      "description": "Sonia es una sacerdotisa hyliana y la primera reina de Hyrule, tras fundar el reino junto a su esposo, Rauru. Posee poder sobre el tiempo, potenciado por la Gema Secreta que porta. Sonia es antepasada de la princesa Zelda y desempeña un papel fundamental en la historia del reino.",
+      "image": "Queen_Sonia.png"
+   },
+   {
+      "name": "PRUNIA",
+      "description": "Prunia es una distinguida científica Sheikah, reconocida por su experiencia en tecnología antigua. Prunia dirige Lookout Landing y colabora estrechamente con la Princesa Zelda para investigar el resurgimiento de la oscuridad en Hyrule. Su liderazgo y perspicacia científica son fundamentales para desarrollar herramientas y estrategias avanzadas que ayuden a Link en su misión.",
+      "image": "Purah.png"
+   },
+   {
+      "name": "MINERU",
+      "description": "Mineru es una de las últimas Zonai supervivientes y la hermana mayor de Rauru, el primer rey de Hyrule. Reconocida por su sabiduría y conocimiento de la historia y la tecnología Zonai, posee una Piedra Secreta que permite que su espíritu habite un constructo.",
+      "image": "Mineru.png"
+   },
+   {
+      "name": "SIDON",
+      "description": "El carismático y valiente hijo del rey Dorephan, el príncipe Sidon, se ha convertido en un líder y guerrero capaz. Conocido por su inquebrantable optimismo y valentía, forja un profundo vínculo con Link, ayudándolo en diversas misiones para proteger Hyrule.",
+      "image": "Sidon.png"
+   },
+   {
+      "name": "YUNOBO",
+      "description": "Yunobo, descendiente del legendario campeón Daruk, se ha convertido en una figura prominente dentro de la comunidad Goron. Asume el cargo de presidente de YunoboCo, una empresa minera. Sin embargo, la compañía se ve envuelta en la distribución de roca asada marmórea, lo que conlleva consecuencias imprevistas.",
+      "image": "Yunobo.png"
+   },
+   {
+      "name": "TURELI",
+      "description": "El joven hijo de Teba y Saki, Tulin, demuestra una notable habilidad como arquero y posee un espíritu aventurero. En esta entrega, desempeña un papel crucial al unirse a Link en una importante misión, demostrando su crecimiento y potencial como futuro líder dentro de la comunidad Rito.",
+      "image": "Tulin.png"
+   },
+   {
+      "name": "RIJU",
+      "description": "La joven y decidida jefa de la tribu Gerudo, Riju, continúa liderando a su pueblo con una sabiduría que supera su edad. Se enfrenta a nuevas amenazas para su tierra natal, incluyendo un formidable manto de arena que envuelve el desierto.",
+      "image": "Riju.png"
+   }
+]
