@@ -28,7 +28,7 @@ export default function History() {
 
       <div className='flex space-x-4 space-y-4 px-10 md:px-30 font-roboto font-black text-light-cream'>
         <div className='flex items-center justify-center'>
-          <img src='src\assets\images\Totk_2.png' alt="Link y Zelda explorando" className='h-fit w-4/5 rounded-4xl'></img>
+          <img src='src\assets\images\Totk_2.png' alt="El nuevo brazo de Link" className='h-fit w-4/5 rounded-4xl'></img>
         </div>
 
         <div className='flex items-center'>
