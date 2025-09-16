@@ -2,12 +2,12 @@ export default function History() {
   return (
     <div>
       <div className='flex py-15 justify-center bg-charcoal-black'>
-        <h1 className='font-cinzel w-min text-4xl px-10 text-emerald-green text-center font-black border-b-4 border-light-cream'>
+        <h1 className='w-min text-4xl px-10 font-cinzel text-center font-black border-b-4 text-emerald-green border-light-cream'>
           HISTORIA
         </h1>
       </div>
 
-      <div className='flex bg-charcoal-black space-x-4 font-roboto font-black text-light-cream px-10 md:px-30'>
+      <div className='flex  px-10 md:px-30 space-x-4 bg-charcoal-black font-roboto font-black text-light-cream'>
         <div className='items-center'>
           <p className='py-5'>
             Tras la derrota de Calamity Ganon, Hyrule comienza una etapa de reconstrucción. El castillo se levanta de nuevo como símbolo de esperanza, 
@@ -26,7 +26,7 @@ export default function History() {
         </div>
       </div>
 
-      <div className='flex space-x-4 space-y-4 font-roboto font-black text-light-cream px-10 md:px-30'>
+      <div className='flex space-x-4 space-y-4 px-10 md:px-30 font-roboto font-black text-light-cream'>
         <div className='flex items-center justify-center'>
           <img src='src\assets\images\Totk_2.png' alt="Link y Zelda explorando" className='h-fit w-4/5 rounded-4xl'></img>
         </div>

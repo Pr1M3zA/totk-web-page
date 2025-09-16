@@ -2,9 +2,9 @@ import { Link } from 'react-router-dom'
 
 export default function Home() {
   return (
-    <div className='h-screen flex-col'>
+    <div className='flex flex-col h-screen'>
 
-      <div className='flex bg-charcoal-black space-x-2'>
+      <div className='flex h-5/6 bg-charcoal-black '>
         <div className='flex-1 content-center px-32 font-black'>
           <h1 className='py-5 font-cinzel text-5xl text-emerald-green'>
             THE LEGEND OF ZELDA: TEARS OF THE KINGDOM
@@ -19,8 +19,9 @@ export default function Home() {
           </div>
         </div>
 
-        <div className='flex-1 content-center h-1/2 p-10 bg-charcoal-black'>
-          <img src='src\assets\images\Totk_art.jpg' alt="Arte de Tears of the Kingdom" className='h-1/2 w-4/5 rounded-4xl'></img>
+        <div className='flex-1 h-full px-10 pt-16 pb-5'>
+          <img src='src\assets\images\Totk_art.jpg' alt="Arte de Tears of the Kingdom"  className='h-full w-auto rounded-4xl object-contain'>
+          </img>
         </div>
       </div>
 

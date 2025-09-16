@@ -2,7 +2,7 @@ import characters from '/src/characters.json'
 import Character from '../components/Character'
 
 export default function Characters() {
-  let charactersCopy = characters.map((item, index)=> ({...item, background: index%2 === 0 ? 'bg-charcoal-black' : 'bg-graphite-gray'}))
+  const charactersCopy = characters.map((item, index)=> ({...item, background: index%2 === 0 ? 'bg-graphite-gray' : 'bg-charcoal-black'}))
 
   return (
     <div className='overflow-x-auto'>
